@@ -1,0 +1,7 @@
+# AmazonSales_EDA_and_Recommendations_from_Review
+Amazon Products Sales Analysis using Data analytics and NLP Techniques 
+
+Importing necessary libraries and loading the amazon sales dataset
+pre processing the dataset and using it for further analysis
+
+NLP techniques are used to get possible review and recommendations from the previous purchase behaviour of customers
